@@ -1,0 +1,9 @@
+E:\demo\WindowsApplication\bin\Debug\WindowsApplication.exe.config
+E:\demo\WindowsApplication\bin\Debug\WindowsApplication.exe
+E:\demo\WindowsApplication\bin\Debug\WindowsApplication.pdb
+E:\demo\WindowsApplication\obj\Debug\WindowsApplication.csprojResolveAssemblyReference.cache
+E:\demo\WindowsApplication\obj\Debug\WindowsApplication.Properties.Resources.resources
+E:\demo\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.Cache
+E:\demo\WindowsApplication\obj\Debug\WindowsApplication.exe
+E:\demo\WindowsApplication\obj\Debug\WindowsApplication.pdb
+E:\demo\WindowsApplication\obj\Debug\WindowsApplication.Form1.resources

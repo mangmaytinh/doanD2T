@@ -1,0 +1,4 @@
+﻿<tr>
+                <td>Mã Bảo Mât</td>
+                <td><asp:Image ID="Image1" runat="server" ImageUrl="~/Captcha/imgsecuritycode.aspx"/></td>
+            </tr>

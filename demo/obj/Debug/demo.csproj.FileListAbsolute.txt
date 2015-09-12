@@ -1,0 +1,22 @@
+E:\Users\Dung\Documents\Visual Studio 2013\Projects\demo\demo\bin\demo.dll.config
+E:\Users\Dung\Documents\Visual Studio 2013\Projects\demo\demo\bin\demo.dll
+E:\Users\Dung\Documents\Visual Studio 2013\Projects\demo\demo\bin\demo.pdb
+E:\Users\Dung\Documents\Visual Studio 2013\Projects\demo\demo\obj\Debug\demo.dll
+E:\Users\Dung\Documents\Visual Studio 2013\Projects\demo\demo\obj\Debug\demo.pdb
+C:\Users\Dung\documents\visual studio 2013\Projects\demo\demo\bin\demo.dll.config
+C:\Users\Dung\documents\visual studio 2013\Projects\demo\demo\bin\demo.dll
+C:\Users\Dung\documents\visual studio 2013\Projects\demo\demo\bin\demo.pdb
+C:\Users\Dung\documents\visual studio 2013\Projects\demo\demo\obj\Debug\demo.dll
+C:\Users\Dung\documents\visual studio 2013\Projects\demo\demo\obj\Debug\demo.pdb
+F:\demo\demo\bin\demo.dll.config
+F:\demo\demo\bin\demo.dll
+F:\demo\demo\bin\demo.pdb
+F:\demo\demo\obj\Debug\demo.dll
+F:\demo\demo\obj\Debug\demo.pdb
+F:\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+E:\demo\demo\bin\demo.dll.config
+E:\demo\demo\bin\demo.dll
+E:\demo\demo\bin\demo.pdb
+E:\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+E:\demo\demo\obj\Debug\demo.dll
+E:\demo\demo\obj\Debug\demo.pdb

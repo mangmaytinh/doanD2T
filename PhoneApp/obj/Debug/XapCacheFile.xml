@@ -1,0 +1,12 @@
+﻿<xapCache source="E:\demo\PhoneApp\Bin\Debug\PhoneApp_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="5/29/2015 20:17:19">
+  <file source="E:\demo\PhoneApp\obj\Debug\PhoneApp.dll" archivePath="PhoneApp.dll" lastWriteTime="5/29/2015 20:17:19" />
+  <file source="E:\demo\PhoneApp\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="5/29/2015 00:55:24" />
+  <file source="E:\demo\PhoneApp\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="5/29/2015 00:55:24" />
+  <file source="E:\demo\PhoneApp\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="5/29/2015 00:55:24" />
+  <file source="E:\demo\PhoneApp\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="5/29/2015 00:55:24" />
+  <file source="E:\demo\PhoneApp\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="5/29/2015 00:55:24" />
+  <file source="E:\demo\PhoneApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="5/29/2015 00:55:40" />
+  <file source="E:\demo\PhoneApp\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="5/29/2015 00:55:24" />
+  <file source="E:\demo\PhoneApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="5/29/2015 00:55:24" />
+  <file source="E:\demo\PhoneApp\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="5/29/2015 00:55:41" />
+</xapCache>
